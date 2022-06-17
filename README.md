@@ -1,5 +1,6 @@
 # MedRemind
 Summary: An application that displays a user's medication information for easy reference.
+Link: https://medremind.herokuapp.com/
 
 # Installation
 Use the package manager pip to install the required dependencies
