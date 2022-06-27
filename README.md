@@ -18,10 +18,10 @@ pip3 install -r requirements.txt
 # Usage
 Windows:
 ```
-python main.py
+python app.py
 ```
 
 macOS/Linux:
 ```
-python3 main.py
+python3 app.py
 ```
